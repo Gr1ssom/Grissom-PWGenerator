@@ -6,4 +6,8 @@ To use, press the Generate Password button in the middle of the page. Then follo
 
 If you have any questions, I can be reached via GitHub.
 
+Link to page:
+
+https://gr1ssom.github.io/Grissom-PWGenerator/
+
 Dylan Grissom
